@@ -17,3 +17,8 @@ This time we are going to give a list of names to helloWorld fuction and print t
 ![task3_code](task3_code.png)
 
 ![task3](task3.png)
+
+# Task 4
+Here we are going use the Context class function named "predecessor".
+
+![task4](task4.png)
